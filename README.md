@@ -1,2 +1,2 @@
 # Autonomous-Battlebots-Project
-Group project for Robotics (COM310), built two robots programmed autonomously to battle against each other in a closed space. Robots are controlled using and Arduino Uno chip with a Adafruit motor shield mount. Programming was done on Arduino IDE for DC Motor and Sensor control. Website: https://sites.google.com/a/conncoll.edu/autonomous-battlebots-project-com304/?pli=1
+Group project for Robotics (COM310), built two robots programmed autonomously to battle against each other in a closed space. Robots are controlled using an Arduino Uno chip with a Adafruit motor shield mount. Programming was done on Arduino IDE for DC Motor and Sensor control. Website: https://sites.google.com/a/conncoll.edu/autonomous-battlebots-project-com304/?pli=1
